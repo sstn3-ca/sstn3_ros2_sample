@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-  <name>topic_monitor</name>
+  <name>sstn3_ros_sample</name>
   <version>0.9.3</version>
   <description>Package containing tools for monitoring ROS 2 topics.</description>
   <maintainer email="mabel@openrobotics.org">Mabel Zhang</maintainer>
