@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(sstn3_ros_sample)
+project(sstn3_ros2_sample)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)
